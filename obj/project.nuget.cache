@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ky0UNzRyZMiQZgwDT0mESgWBlqgStByiFm/HwLQJAXr0l2V5ZBdpv+hZ7PZqiLO6kCerfQ9/XM6lRC41QfSSLQ==",
+  "dgSpecHash": "TwnN+ukRakaqcYXATZ8eFGPcaklPoo1AV6yw1RqneiU50muLnXUWjUhJ/VN7hXl+R8GLC0n4CydnbRKomdNfpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabio.pastorio\\Documents\\ASPNETCoreMVC7_Course\\ASPNETCoreMVC7_Course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\fabio.pastorio\\.nuget\\packages\\bootstrap\\5.0.0\\bootstrap.5.0.0.nupkg.sha512",
+    "C:\\Users\\fabio.pastorio\\.nuget\\packages\\datatables.net\\1.12.1\\datatables.net.1.12.1.nupkg.sha512",
+    "C:\\Users\\fabio.pastorio\\.nuget\\packages\\datatables.net-bs5\\1.13.5\\datatables.net-bs5.1.13.5.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
@@ -56,6 +59,7 @@
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\fabio.pastorio\\.nuget\\packages\\jquery\\1.7.0\\jquery.1.7.0.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\fabio.pastorio\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",

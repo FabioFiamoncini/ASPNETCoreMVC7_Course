@@ -22,7 +22,7 @@ body {
 }
 
 .bi bi-window-plus {
-  
+
 }
 
 
@@ -183,4 +183,9 @@ body {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+
+td {
+  vertical-align: middle;
 }
